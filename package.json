@@ -1,0 +1,19 @@
+{
+  "name": "hj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./idex.js localhost 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "express-handlebars": "^8.0.1",
+    "nodemon": "^3.1.6"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
